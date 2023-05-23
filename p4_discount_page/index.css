@@ -1,0 +1,46 @@
+#border{
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(19, 17, 17);
+
+}
+img{
+    margin: 22px;
+    width: 450px;
+    height: 250px;
+    border-radius: 10px;
+}
+p{
+    margin: 22px;
+    font-weight: 900;
+    font-size: xx-large;
+    color: rgb(250, 249, 246);
+}
+span{
+    margin: 20px;
+    font-weight: 900;
+    font-size: x-large;
+    color: rgb(250, 249, 246);
+}
+#discount{
+    color: rgb(45, 45, 196);
+}
+#off{
+    width: 80px;
+    height: 35px;
+    background-color:rgb(4, 104, 49) ;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: large;
+    color: rgb(250, 249, 246);
+    /* font-size: ; */
+    
+}
+hr{
+    margin-left: 25px;
+    margin-right: 175px;
+    color: rgba(45, 173, 117, 0);
+}
+
